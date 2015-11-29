@@ -1,0 +1,15 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+	<bean id="faizanBean" class="SpringCore">
+		<property name="name" value="Salamun alaikum mr Faizan" />
+		
+		<property name="address" value="green belt" />
+	</bean>
+
+
+
+
+</beans>
